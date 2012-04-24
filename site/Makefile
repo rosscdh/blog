@@ -34,7 +34,8 @@ $(OUTPUTDIR)/%.html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
-	rm -Rf $(echo $OUTPUTDIR/* | tr " " "\n" | grep -v .git | tr "\n" " ")
+	find $(OUTPUTDIR) -type d ! \( -path '*.git*' -o -path '*output' \) -exec rm -Rf {} +
+	find $(OUTPUTDIR) -type f -name "*.html" -exec rm {} +
 
 github: $(OUTPUTDIR)/index.html
 	git push origin master $(OUTPUTDIR)

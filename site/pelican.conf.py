@@ -4,7 +4,7 @@ import os
 PROJECT_DIR = '/home/rossc/Projects/Personal/blog/site'
 
 AUTHOR = u"Ross Crawford-d'Heureuse"
-SITENAME = u"Ross Crawford-d'Heureuse - Django flavoured application development"
+SITENAME = u"Django flavoured application development"
 SITEURL = '/'
 
 TIMEZONE = 'Europe/Berlin'
