@@ -1,4 +1,4 @@
-Date: 2010-12-03
+Date: 2012-04-16
 Title: A post from the blue
 Tags: first post, hi there, what is this
 Slug: a-post-from-the-blue
