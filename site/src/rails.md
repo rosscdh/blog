@@ -1,8 +1,8 @@
 Date: 2010-12-03
-Title: Rails a beginning
+Title: Learning the Rails - a start int he ruby on rails world
 Tags: rails, ruby, vs django, vs python
 Category: Rails
-Slug: a-post-from-the-blue
+Slug: learning-the-rails-part-1
 
 # Ruby on Rails #
 

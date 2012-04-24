@@ -35,4 +35,4 @@ DEFAULT_PAGINATION = 5
 # A list of files to copy from the source to the destination
 # FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),)
 
-THEME = os.path.join(PROJECT_DIR, '../theme/bootstrap2')
+THEME = os.path.join(PROJECT_DIR, '../theme')
