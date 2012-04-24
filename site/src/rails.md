@@ -1,6 +1,7 @@
 Date: 2010-12-03
 Title: Rails a beginning
 Tags: rails, ruby, vs django, vs python
+Category: Rails
 Slug: a-post-from-the-blue
 
 # Ruby on Rails #

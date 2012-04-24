@@ -15,12 +15,8 @@ GITHUB_URL = 'http://github.com/stard0g101/'
 REVERSE_CATEGORY_ORDER = True
 
 # Blogroll
-LINKS =  (
-    ('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
-    ('Python.org', 'http://python.org'),
-    ('Jinja2', 'http://jinja.pocoo.org'),
-    ('You can modify those links in your config file', '#')
-         )
+# LINKS =  (
+#          )
 
 # Social widget
 SOCIAL = (
@@ -39,4 +35,4 @@ DEFAULT_PAGINATION = 5
 # A list of files to copy from the source to the destination
 # FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),)
 
-THEME = os.path.join(PROJECT_DIR, '../pelican-themes/bootstrap2')
+THEME = os.path.join(PROJECT_DIR, '../theme/bootstrap2')
