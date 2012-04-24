@@ -1,5 +1,5 @@
 Date: 2012-04-24
-Title: Learning the Rails - a start int he ruby on rails world
+Title: Learning the Rails - a start into the ruby on rails world
 Tags: rails, ruby, vs django, vs python
 Category: Rails
 Slug: learning-the-rails-part-1
