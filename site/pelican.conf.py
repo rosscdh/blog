@@ -4,8 +4,9 @@ import os
 PROJECT_DIR = '/home/rossc/Projects/Personal/blog/site'
 
 AUTHOR = u"Ross Crawford-d'Heureuse"
-SITENAME = u"Django flavoured application development"
-SITEURL = '/'
+SITENAME = u"Django flavoured"
+SITEURL = 'http://stard0g101.github.com'
+FEED_DOMAIN = SITEURL
 
 TIMEZONE = 'Europe/Berlin'
 
@@ -13,6 +14,7 @@ DEFAULT_LANG='en'
 
 GITHUB_URL = 'http://github.com/stard0g101/'
 REVERSE_CATEGORY_ORDER = True
+
 
 # Blogroll
 # LINKS =  (
@@ -35,4 +37,4 @@ DEFAULT_PAGINATION = 5
 # A list of files to copy from the source to the destination
 # FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),)
 
-THEME = os.path.join(PROJECT_DIR, '../theme')
+THEME = os.path.join(PROJECT_DIR, '../pelican-themes/subtle')
