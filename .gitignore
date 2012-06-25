@@ -1,0 +1,15 @@
+output/
+*.pyc
+*.sqlite3
+*.swp
+*.swo
+local_settings.py
+*.db
+*.sqlite
+tags
+
+.AppleDouble
+:2e_*
+._*
+.DS_Store
+/MANIFEST
