@@ -1,2 +1,2 @@
 cd site
-pelican -o ../output
+pelican -o ../output -s pelican.conf.py

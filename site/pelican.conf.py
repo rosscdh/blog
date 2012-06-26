@@ -1,16 +1,17 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
+# -*- coding: utf-8 -*-
 import os
-PROJECT_DIR = '/home/rossc/Projects/Personal/blog/site'
+#PROJECT_DIR = '/home/rossc/Projects/Personal/blog/site'
+PROJECT_DIR = '/Users/rossc/Projects/Personal/blog/site'
 
-AUTHOR = u"Ross Crawford-d'Heureuse"
-SITENAME = u"Django flavoured"
+AUTHOR = "Ross Crawford-d'Heureuse"
+SITENAME = "Django flavoured"
 SITEURL = 'http://stard0g101.github.com'
 FEED_DOMAIN = SITEURL
 
 TIMEZONE = 'Europe/Berlin'
 
 DEFAULT_LANG='en'
+LOCALE='en_GB.UTF-8'
 
 GITHUB_URL = 'http://github.com/stard0g101/'
 REVERSE_CATEGORY_ORDER = True
@@ -36,5 +37,4 @@ DEFAULT_PAGINATION = 5
 
 # A list of files to copy from the source to the destination
 # FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),)
-print PROJECT_DIR
 THEME = os.path.join(PROJECT_DIR, '../pelican-themes/subtle')

@@ -10,7 +10,7 @@ I am seriously looking forward to [EuroPython2012](https://ep2012.europython.eu/
 
 The conference takes place in Florence, Italy. A city that has been on my visit-list for a very long time.
 
-My collegue "**MartinO**" and I depart Dusseldorf on Sunday 1.7.2012 and will attend the entire week.
+My collegue "**MartinO**" and I, depart Dusseldorf on Sunday 1.7.2012 and will be attending for the entire week.
 
 This blog is where, I will try to give a running list of the information that is absorbed! Both for my collegues at [Adcloud](http://adcloud.com) and for whoever stumbles across it in the future.
 
