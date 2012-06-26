@@ -36,5 +36,5 @@ DEFAULT_PAGINATION = 5
 
 # A list of files to copy from the source to the destination
 # FILES_TO_COPY = (('extra/robots.txt', 'robots.txt'),)
-
+print PROJECT_DIR
 THEME = os.path.join(PROJECT_DIR, '../pelican-themes/subtle')
