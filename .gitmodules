@@ -1,6 +1,6 @@
 [submodule "output"]
 	path = output
-	url = git@github.com:stard0g101/stard0g101.github.com.git
+	url = https://stard0g101@github.com/stard0g101/stard0g101.github.com.git
 [submodule "pelican-themes"]
 	path = pelican-themes
 	url = https://github.com/ametaireau/pelican-themes.git

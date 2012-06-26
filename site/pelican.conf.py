@@ -24,7 +24,7 @@ REVERSE_CATEGORY_ORDER = True
 # Social widget
 SOCIAL = (
           ('twitter', 'http://twitter.com/stardog101'),
-          ('github', 'http://twitter.com/stard0g101'),
+          ('github', 'http://github.com/stard0g101'),
          )
 
 DEFAULT_PAGINATION = 5
