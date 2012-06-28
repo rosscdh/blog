@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import os
-#PROJECT_DIR = '/home/rossc/Projects/Personal/blog/site'
-PROJECT_DIR = '/Users/rossc/Projects/Personal/blog/site'
+PROJECT_DIR = '/home/rossc/Projects/Personal/blog/site'
+#PROJECT_DIR = '/Users/rossc/Projects/Personal/blog/site'
 
 AUTHOR = "Ross Crawford-d'Heureuse"
 SITENAME = "Django flavoured"
