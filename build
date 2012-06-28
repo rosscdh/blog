@@ -2,3 +2,8 @@
 
 cd site
 pelican -o ../output -s pelican.conf.py
+
+cd ../output
+git add .
+git commit -m"Updates"
+git push 
